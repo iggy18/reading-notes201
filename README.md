@@ -1,5 +1,5 @@
 # Code 201 reading notes
-## This repository is for reading during the ** code ** 201 class at codefellows.
+## This repository is for reading during the code 201 class at codefellows.
 
 > No amount of anxeity makes any difference to anything that going to happen.
 
