@@ -8,15 +8,15 @@
 
 ## HTML 5 introduced a new set of elements that define the structure of a page.
 
-1. <header> top of page.
-2. <footer> bottom of page.
-3. <nav> navigation bar.
-4. <article> content that could stand alone.
-5. <aside> links to related content down the side of the page.
-6. <section> groups related content together.
-7. <hgroup> group together a set of one or more <h1>-<h6> elements.
-8. <figure> used to contain any content that is referenced from the main flow of an article.
-9. <div> used to group related elements together.
+1. *header* top of page.
+2. *footer* bottom of page.
+3. *nav* navigation bar.
+4. *article* content that could stand alone.
+5. *aside* links to related content down the side of the page.
+6. *section* groups related content together.
+7. *hgroup* group together a set of one or more h1-h6 elements.
+8. *figure* used to contain any content that is referenced from the main flow of an article.
+9. *div* used to group related elements together.
 
 ## Process and design.
 
@@ -41,7 +41,7 @@
 
 ## How do HTML, CSS, and JavaScript fit together.
 
-1. <HTML> is the content layer
-2. <CSS> is the presentation layer
-3. <JavaScript> is the behavioral layer.
+1. ***HTML*** is the content layer
+2. ***CSS is the*** presentation layer
+3. ***JavaScript is*** the behavioral layer.
 

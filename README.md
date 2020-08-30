@@ -4,7 +4,7 @@
 > No amount of anxeity makes any difference to anything that going to happen.
 
 ### daily reading assignments.
-1. 
+1. [Intro](intro.md)
 2. 
 3. 
 4. 
