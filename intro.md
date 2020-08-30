@@ -42,6 +42,6 @@
 ## How do HTML, CSS, and JavaScript fit together.
 
 1. ***HTML*** is the content layer
-2. ***CSS is the*** presentation layer
-3. ***JavaScript is*** the behavioral layer.
+2. ***CSS*** is the presentation layer
+3. ***JavaScript*** is the behavioral layer.
 
