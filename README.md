@@ -5,7 +5,7 @@
 
 ### daily reading assignments.
 1. [Intro](intro.md)
-2. 
+2. [class 2](class-02.md)
 3. 
 4. 
 5. 
