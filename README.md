@@ -8,7 +8,7 @@
 2. [class 2](class-02.md)
 3. [class 3](class-03.md)
 4. [class 4](class-04.md)
-5. 
+5. [class 5](class-05.md)
 6. 
 7. 
 8. 
