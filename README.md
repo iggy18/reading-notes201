@@ -10,7 +10,7 @@
 4. [class 4](class-04.md)
 5. [class 5](class-05.md)
 6. 
-7. 
+7. [class 7](class-07.md)
 8. 
 9. 
 10. 
