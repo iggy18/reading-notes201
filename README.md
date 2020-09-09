@@ -11,7 +11,7 @@
 5. [class 5](class-05.md)
 6. 
 7. [class 7](class-07.md)
-8. 
+8. [Class 8](class-08.md)
 9. 
 10. 
 11. 
