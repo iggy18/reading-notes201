@@ -17,29 +17,29 @@ each execution context has its own variables object. children can accesss the pa
 **error objects**
 
 ***property descriptions***
-when and error object is created it will contain the following properties.
-name -type of error
-message - description
-filenumber - name of the javascript file
-line number - line number of error
+- when and error object is created it will contain the following properties.
+- name -type of error
+- message - description
+- filenumber - name of the javascript file
+- line number - line number of error
 
 ***object desriptions***
-error -geric error, all others are based on this error
-syntax error - syntax has not been followed
-reference error - tried to reference a variable that is not declaired
-type error - unexpected data type that can not be coerced
-range error - numbers not in accesable range
-uri error - encode and decode methonds used incorrectly
-eval error - eval function used incorrectly
+- error -geric error, all others are based on this error
+- syntax error - syntax has not been followed
+- reference error - tried to reference a variable that is not declaired
+- type error - unexpected data type that can not be coerced
+- range error - numbers not in accesable range
+- uri error - encode and decode methonds used incorrectly
+- eval error - eval function used incorrectly
 
 
 ### debuigging workflow
 **where is the problem?**
-narrow down the area where the problem seems to be
-look at the error message 
+- narrow down the area where the problem seems to be
+- look at the error message 
 
 **what exactly is the problem?**
-break down/break out parts of the code to test in smaller pieces
+- break down/break out parts of the code to test in smaller pieces
 
-if you know your code might fail use try, catch, and finally.
+- if you know your code might fail use try, catch, and finally.
 
