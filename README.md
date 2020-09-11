@@ -13,7 +13,7 @@
 7. [class 7](class-07.md)
 8. [Class 8](class-08.md)
 9. [class 9](class-09.md)
-10. 
+10. [class 10](class-10.md)
 11. 
 12. 
 13. 
